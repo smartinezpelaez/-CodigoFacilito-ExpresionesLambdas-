@@ -1,0 +1,14 @@
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\bin\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.exe
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\bin\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.deps.json
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\bin\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.runtimeconfig.json
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\bin\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.dll
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\bin\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.pdb
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.AssemblyInfo.cs
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.dll
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\refint\CodigoFacilito-ExpresionesLambdas.dll
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.pdb
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\CodigoFacilito-ExpresionesLambdas.genruntimeconfig.cache
+C:\Users\stev2\source\repos\ExpresionesLambdas\CodigoFacilito-ExpresionesLambdas\obj\Debug\net7.0\ref\CodigoFacilito-ExpresionesLambdas.dll
