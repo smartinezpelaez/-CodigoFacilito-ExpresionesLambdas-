@@ -7,31 +7,16 @@
 //Cuando la funcion retorne un valor usamos FUNC y si no retorna Action.
 //Actios solo define los tipos para los parametros
 
-
-Func<int,bool> par =  numero => numero % 2 == 0;
-Console.WriteLine("El numero es par : "  + par(5));
-
-Func<int,int, int> sum = (num1 , num2) => num1 + num2;
-Console.WriteLine("El resultado de la suma es = " + sum(10,20));
-
-
-Func<string, bool> validador = correo =>
+class Program
 {
-    if (!correo.EndsWith("@gmail.com", StringComparison.CurrentCulture))
-    {
-        Console.WriteLine("El correo es invalido");
-    }
-    return false;
-};
+    //public static void Main(string[] args)
+    //{
+    //    Func<int, bool> par = numero => numero % 2 == 0;
+    //    Console.WriteLine("El numero es par : " + par(5));
+    //}
 
-Console.WriteLine("El correo es valido = " + validador("smartm@hotmail.com"));
+}
 
-Action <string> saludar =  mensaje => Console.WriteLine(mensaje);
-saludar("Saludar desde una funion anonima!");
 
-Action<int, int> suma = (num1, num2) =>
-{
-    Console.WriteLine(num1 + num2);
-   // Console.WriteLine(num2);
-};
-suma( 2, 2);
+
+
